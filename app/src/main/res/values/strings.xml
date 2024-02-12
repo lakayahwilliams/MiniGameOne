@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MiniGameOne</string>
+    <string name="score_1">Score:!$1</string>
+    <string name="click_me">Click Me!</string>
+    <string name="grow_the_flower">Grow the flower!</string>
+    <string name="you_win">You Win!</string>
+</resources>
