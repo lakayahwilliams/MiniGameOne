@@ -29,7 +29,7 @@ class MainActivity : AppCompatActivity() {
             scoreView.text = score.toString()
             if (score == 10) {
                 Toast.makeText(this,getString(R.string.you_win), Toast.LENGTH_LONG).show()
-                potView.setImageResource(R.drawable.flower)
+//                potView.setImageResource(R.drawable.flower)
             }
         }
         fun getFlower(): Int {
